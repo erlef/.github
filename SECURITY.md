@@ -1,7 +1,7 @@
 # Security Policy
 
 [![OpenSSF Vulnerability Disclosure](https://img.shields.io/badge/OpenSSF-Vulnerability_Disclosure-green)][openssf-cvd-finders-guide]
-[![GitHub Report](https://img.shields.io/badge/GitHub-Security_Advisories-blue)][github-advisory-new]
+[![GitHub Report](https://img.shields.io/badge/GitHub-Security_Advisories-blue)][github-private-vulnerability-reporting]
 [![Email Report](https://img.shields.io/badge/Email-security%40erlef.org-blue)][email]
 
 We take the security of this software seriously and are committed to ensuring
@@ -14,7 +14,8 @@ You can learn more about it in the [Finders Guide][openssf-cvd-finders-guide].
 ## Reporting Security Issues
 
 If you believe you have found a security vulnerability in this repository,
-please report it via [GitHub Security Vulnerability Reporting][github-advisory-new]
+please report it via [GitHub Security Vulnerability Reporting][github-private-vulnerability-reporting]
+at `github.com/erlef/<project>/security/advisories/new`
 or via email to [`security@erlef.org`][email] if that is more suitable for you.
 
 **Please do not report vulnerabilities through public channels** such as GitHub
@@ -45,5 +46,5 @@ vulnerability management team at [`security@erlef.org`][email].
 
 [openssf-cvd-guide]: https://github.com/ossf/oss-vulnerability-guide/tree/main
 [openssf-cvd-finders-guide]: https://github.com/ossf/oss-vulnerability-guide/blob/main/finder-guide.md
-[github-advisory-new]: /security/advisories/new
+[github-private-vulnerability-reporting]: https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability#privately-reporting-a-security-vulnerability
 [email]: mailto:security@erlef.org
